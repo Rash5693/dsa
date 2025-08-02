@@ -13,4 +13,20 @@
 |  |
 | ------- |
 | [0392-is-subsequence](https://github.com/Rash5693/dsa/tree/master/0392-is-subsequence) |
+## Array
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
+## Binary Search
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->

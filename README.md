@@ -4,6 +4,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rash5693/dsa/tree/master/0015-3sum) |
 | [0392-is-subsequence](https://github.com/Rash5693/dsa/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -17,6 +18,7 @@
 ## Array
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Rash5693/dsa/tree/master/0015-3sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [1603-running-sum-of-1d-array](https://github.com/Rash5693/dsa/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
@@ -37,4 +39,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rash5693/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+## Sorting
+|  |
+| ------- |
+| [0015-3sum](https://github.com/Rash5693/dsa/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->

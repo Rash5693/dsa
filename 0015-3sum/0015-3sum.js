@@ -4,42 +4,48 @@
  */
 var threeSum = function(nums) 
 {
-   const result = [];
-    nums.sort((a, b) => a - b); 
+      const freq = new Map();
+    const result = new Set();
 
-    for (let i = 0; i < nums.length - 2; i++) 
+    for (const num of nums) 
     {
-        if (i > 0 && nums[i] == nums[i - 1]) continue; 
+        freq.set(num, (freq.get(num) || 0) + 1);
+    }
 
-        let j = i + 1;
-        let k = nums.length - 1;
+    const unique = Array.from(freq.keys());
 
-        while (j < k) 
+    if (freq.get(0) >= 3) 
+    {
+        result.add("0,0,0");
+    }
+    for (const x of unique) 
+    {
+        if (freq.get(x) >= 2) 
         {
-            const sum = nums[i] + nums[j] + nums[k];
-
-            if (sum === 0) 
+            const y = -2 * x;
+            if (y !== x && freq.has(y)) 
             {
-                result.push([nums[i], nums[j], nums[k]]);
-       
-                while (j < k && nums[j] == nums[j + 1]) j++;
-                while (j < k && nums[k] == nums[k - 1]) k--;
-
-                j++;
-                k--;
-            } 
-            else if (sum < 0) 
-            {
-                j++; 
-            } 
-            else 
-            {
-                k--; 
+                const triplet = [x, x, y].sort((a, b) => a - b);
+                result.add(triplet.toString());
             }
         }
     }
-    return result;
-}
+    for (let i = 0; i < unique.length; i++) 
+    {
+        const a = unique[i];
+        for (let j = i + 1; j < unique.length; j++) 
+        {
+            const b = unique[j];
+            const c = -a - b;
+            if (!freq.has(c)) continue;
 
-const nums = [-1, 0, 1, 2, -1, -4];
-console.log(threeSum(nums));
+            if ((c === a || c === b) && freq.get(c) < 2) continue;
+            if (c === a && c === b && freq.get(c) < 3) continue;
+
+            const triplet = [a, b, c].sort((x, y) => x - y);
+            result.add(triplet.toString());
+        }
+    }
+
+    return Array.from(result).map(str => str.split(',').map(Number));
+}

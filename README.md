@@ -20,6 +20,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Rash5693/dsa/tree/master/0015-3sum) |
 | [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/Rash5693/dsa/tree/master/0940-fruit-into-baskets) |
 | [1603-running-sum-of-1d-array](https://github.com/Rash5693/dsa/tree/master/1603-running-sum-of-1d-array) |
 ## Binary Search
 |  |
@@ -30,6 +31,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rash5693/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
+| [0940-fruit-into-baskets](https://github.com/Rash5693/dsa/tree/master/0940-fruit-into-baskets) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -39,6 +41,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rash5693/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0940-fruit-into-baskets](https://github.com/Rash5693/dsa/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
 | ------- |

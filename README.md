@@ -19,6 +19,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rash5693/dsa/tree/master/0015-3sum) |
+| [0200-number-of-islands](https://github.com/Rash5693/dsa/tree/master/0200-number-of-islands) |
 | [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Rash5693/dsa/tree/master/0940-fruit-into-baskets) |
 | [1603-running-sum-of-1d-array](https://github.com/Rash5693/dsa/tree/master/1603-running-sum-of-1d-array) |
@@ -46,4 +47,20 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rash5693/dsa/tree/master/0015-3sum) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rash5693/dsa/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rash5693/dsa/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rash5693/dsa/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Rash5693/dsa/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->

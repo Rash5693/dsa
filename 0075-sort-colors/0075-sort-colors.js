@@ -16,14 +16,15 @@ var sortColors = function(nums)
             i++;
             k++;
         } 
-        else if (nums[k] == 1) 
-        {
-            k++;
-        } 
-        else 
+        
+        else if(nums[k] == 2)
         { 
             [nums[k], nums[j]] = [nums[j], nums[k]];
             j--;
+        }
+         else
+        {
+            k++;
         }
     }
 }

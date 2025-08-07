@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rash5693/dsa/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Rash5693/dsa/tree/master/0075-sort-colors) |
 | [0392-is-subsequence](https://github.com/Rash5693/dsa/tree/master/0392-is-subsequence) |
 ## String
 |  |
@@ -19,6 +20,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rash5693/dsa/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Rash5693/dsa/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/Rash5693/dsa/tree/master/0200-number-of-islands) |
 | [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Rash5693/dsa/tree/master/0940-fruit-into-baskets) |
@@ -47,6 +49,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/Rash5693/dsa/tree/master/0015-3sum) |
+| [0075-sort-colors](https://github.com/Rash5693/dsa/tree/master/0075-sort-colors) |
 ## Depth-First Search
 |  |
 | ------- |

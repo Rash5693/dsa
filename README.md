@@ -25,6 +25,7 @@
 | [0075-sort-colors](https://github.com/Rash5693/dsa/tree/master/0075-sort-colors) |
 | [0200-number-of-islands](https://github.com/Rash5693/dsa/tree/master/0200-number-of-islands) |
 | [0435-non-overlapping-intervals](https://github.com/Rash5693/dsa/tree/master/0435-non-overlapping-intervals) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rash5693/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Rash5693/dsa/tree/master/0713-subarray-product-less-than-k) |
 | [0940-fruit-into-baskets](https://github.com/Rash5693/dsa/tree/master/0940-fruit-into-baskets) |
 | [1603-running-sum-of-1d-array](https://github.com/Rash5693/dsa/tree/master/1603-running-sum-of-1d-array) |
@@ -48,6 +49,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Rash5693/dsa/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0202-happy-number](https://github.com/Rash5693/dsa/tree/master/0202-happy-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Rash5693/dsa/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0940-fruit-into-baskets](https://github.com/Rash5693/dsa/tree/master/0940-fruit-into-baskets) |
 ## Sorting
 |  |
